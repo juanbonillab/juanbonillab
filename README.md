@@ -5,4 +5,4 @@ My name is Juan, and I'm a graduate student in Economics at Universidad Torcuato
 - 🔭 I recently worked on dynamic economic models using MATLAB for my graduate studies
 - 🌱 I'm currently learning Python for economic modeling
 - 👯 I'm looking to collaborate on research or projects related to macroeconomics!
-  - You can reach me juanbonillabernal@gmail.com
+  - You can reach me here juanbonillabernal@gmail.com
